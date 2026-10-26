@@ -4,8 +4,6 @@ Este notebook foi desenvolvido durante a disciplina de Inteligência Artificial 
 
 A atividade explora a construção de um sistema de inferência fuzzy para sugerir o percentual de gorjeta em um restaurante, considerando a qualidade da comida e do serviço. A implementação utiliza Python e a biblioteca `scikit-fuzzy`, importada no código como `skfuzzy`.
 
-## Objetivo
-
 Aplicar os conceitos de variáveis linguísticas, funções de pertinência e regras de decisão em um exemplo prático, acompanhando a definição das entradas e da saída, a construção do controlador e a simulação do resultado.
 
 ## Notebook
