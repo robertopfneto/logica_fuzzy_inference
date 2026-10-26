@@ -77,8 +77,4 @@ Para explorar o comportamento do sistema, altere os valores de entrada dentro do
 
 ## Contexto acadêmico
 
-- Instituição: Universidade Católica Dom Bosco (UCDB).
-- Curso: Ciência da Computação.
-- Disciplina: Inteligência Artificial.
-- Professor: Prof. Dr. Gustavo da Silva Andrade.
-- Finalidade: atividade didática sobre lógica fuzzy e sistemas de inferência.
+- Roberto Pereira de Freitas Neto, Atualizado em 26/10/2026
